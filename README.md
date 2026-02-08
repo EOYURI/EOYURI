@@ -2,7 +2,12 @@
 
 **`Aspirante a Desenvolvedor FullStack`**
 
-Me chamo Yuri Miguel dos Santos, tenho 18 anos e sou nascido e criado em São José dos Campos. Este ano irei concluir o ensino medio na escola Alceu Maynard de Araujo, com o curso técnico de desenvolvimento de sistemas. Sou um grande apreciador de desenvolvimento de sistemas, desde pequeno sempre fui apaixonado por jogos, automações, tecnologias "High-tech". Atualmente (dia 07/02/2026) estou participando de um projeto interno na minha empresa, aonde eu junto de meu parceiro, estamos desenvolvendo um Sistema de Gestão de Armazém (WMS), dentre também: "controle de conferencia", "Controle de carregamento", "controle de abastecimento", "relatorio de falta" e um "Painel de desempenho" para os proprios colaboradores conseguirim acompanhar seu desempenho.
+Me chamo Yuri Miguel dos Santos, tenho 18 anos e sou de São José dos Campos. 
+Este ano concluirei o ensino médio na Escola Alceu Maynard de Araújo, junto ao curso técnico em Desenvolvimento de Sistemas. 
+
+Sou apaixonado por tecnologia desde pequeno, especialmente por jogos, automações e soluções "high-tech". 
+Atualmente participo de um projeto interno na empresa onde trabalho, desenvolvendo um Sistema de Gestão de Armazém (WMS) com meu parceiro. 
+O sistema inclui módulos de controle de conferência, carregamento, abastecimento, relatórios de faltas e um painel de desempenho para que os colaboradores acompanhem sua performance.
 
 ### 🤖 Linguagens e Tecnologias
 
