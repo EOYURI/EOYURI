@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Yuri Miguel
+# 👨🏻‍💻 Yuri Miguel
 
 **`Aspirante a Desenvolvedor FullStack`**
 
