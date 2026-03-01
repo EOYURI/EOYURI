@@ -38,7 +38,7 @@ O sistema inclui módulos de controle de conferência, carregamento, abastecimen
 <img 
     align="left" 
     alt="React"
-    title="React" 
+    title="React-native" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
